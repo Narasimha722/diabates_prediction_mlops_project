@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Model and large files
+*.pkl
+
+# VSCode config
+.vscode/
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python egg
+*.egg
+*.egg-info/
+
+# Pip environment
+pip-log.txt
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# Screenshots or large assets (optional)
+screenshots/
