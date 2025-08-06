@@ -75,12 +75,12 @@ Visit: http://127.0.0.1:8000 for the web interface
 
 🎯 Prediction Form:
 
-![App Screenshot](diabetes-model-mlops-project-main/assets/diabates_prediction_homepage.png)
+![App Screenshot](assets/diabates_prediction_homepage.png)
 
 📊 Prediction Result:
 
-![App Screenshot](diabetes-model-mlops-project-main/assets/diabates_prediction_result.png)
-![App Screenshot](diabetes-model-mlops-project-main/assets/diabates_project_doc.png)
+![App Screenshot](assets/diabates_prediction_result.png)
+![App Screenshot](assets/diabates_project_doc.png)
 
 🎨 Technologies Used:
 
